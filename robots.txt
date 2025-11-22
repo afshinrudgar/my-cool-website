@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://parisa.space/sitemap.xml
+Sitemap: https://parisaspace.framer.website/sitemap.xml
