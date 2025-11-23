@@ -2,7 +2,7 @@ name: Scheduled Update
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC every day (can be changed)
+    - cron: "0 0 * * *" # Runs at 00:00 UTC every day (can be changed)
   workflow_dispatch: # Allows manual triggering
 
 jobs:
